@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-### Olá 👋, I am [Thiago]! 😁
+### Olá 👋, Sou o Thiago Luiz! 😁
 
 🔭 Em busca de novas oportunidades profissionais! Aberto a desafios e pronto para contribuir.<br>🌱 Atualmente estou aprendendo NodeJs, ReactJs e buscando a melhoria no Inglês.<br>💬  Pergunte-me sobre qualquer coisa relacionada a jogos e musculação.<br>⚡ Curiosidade: Gosto muito de jogos e de esportes!
 
